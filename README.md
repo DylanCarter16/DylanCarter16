@@ -303,8 +303,6 @@ open_to:
 
 <div align="center">
 
-### *"Ship it. Then make it good."*
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:4c1d95,100:1e1b4b&height=120&section=footer" />
 
 </div>
