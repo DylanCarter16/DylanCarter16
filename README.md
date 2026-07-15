@@ -196,7 +196,7 @@ Developed athletes from recreational beginner through Team Ontario competitive l
 |:---|:---|
 | **FCI × LangChain Hackathon** | Led a 3-person team; presented Vision One Million to 100+ attendees (March 2026) |
 | **160 Hours/Year Automated** | Eliminated a full year's manual research workload for a regional public policy instrument |
-| **Enterprise Deployment at 19** | Shipped automation tooling to 30+ employees in a 130-year-old manufacturing enterprise during first co-op |
+| **Enterprise Deployment at 18** | Shipped automation tooling to 30+ employees in a 130-year-old manufacturing enterprise during first co-op |
 | **Euclid Mathematics Contest** | University of Waterloo CEMC · Grade 12 |
 | **Canadian Computing Competition** | CCC Senior Division · Grade 12 |
 | **Fermat Mathematics Contest** | University of Waterloo CEMC · Grade 11 |
@@ -303,7 +303,7 @@ open_to:
 
 <div align="center">
 
-### *"Ship the thing. Then make it good."*
+### *"Ship it. Then make it good."*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:4c1d95,100:1e1b4b&height=120&section=footer" />
 
